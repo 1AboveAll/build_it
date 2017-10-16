@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Build IT</string>
+    <string name="title_activity_labourer">Labourer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_stakeholder">Stakeholder</string>
+    <string name="title_activity_project">Project</string>
+
+    <string name="title_activity_tutorial">Tutorial</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_contractor">Contractor</string>
+</resources>

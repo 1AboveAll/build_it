@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_plans"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Plans" />
+        <item
+            android:id="@+id/nav_documents"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Documents" />
+        <item
+            android:id="@+id/nav_daily_reports"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Daily Reports" />
+        <item
+            android:id="@+id/nav_team"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Team" />
+        <item
+            android:id="@+id/nav_equipments_database"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Equipments" />
+        <item
+            android:id="@+id/nav_construction_material"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Construction Materials" />
+
+        <item
+            android:id="@+id/activity_project_drawer_exit"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Close Project"/>
+
+    </group>
+
+</menu>
